@@ -41,15 +41,11 @@ The Revenue Leak: 23% of all bookings (6,213 records) are at risk of cancellatio
 
 Lead Time Risk: Bookings made 100–400+ days in advance carry significantly higher cancellation risk. As lead time increases, the probability of cancellation or no-show rises rapidly.
 
-Deposit Policy Impact: * Refundable deposits actually show the highest cancellation risk (68.5%), as they allow guests to walk away easily.
-
-No-deposit bookings account for 65.4% of all cancellations, representing the largest volume of financial risk.
-
-Channel Sensitivity: Online Travel Agency (OTA) bookings cancel at a rate of 41.2%, nearly double the rate of direct bookings (24.6%).
+Deposit Policy Impact: ~15.5% of all no deposite bookings ends up cancelled out of all no deposit bookings, representing the largest volume of financial risk for the cencellations.
 
 Non-Predictive Factors: Demographic data such as Income Level, Educational Level, and Gender showed no meaningful correlation with cancellation behavior.
 
-Property Trends: Resorts experience the highest cancellation rates (23.8%), primarily due to their higher booking volume and longer lead times.
+Property Trends: Resorts experience the highest cancellation rates (23.8%) compared to air port hotels, possibly due to non-urgency of the booking. 
 
 ## 6. Methodology
 This project follows the end-to-end Data Science Project Lifecycle, moving from industry research to a deployable predictive model. The process is divided into the following five key phases:
